@@ -27,13 +27,13 @@ body {
 }
 
 h1, h2 {
-    border: solid 4px rgb(118, 3, 146);
-    background: rgb(5, 161, 252);
+    border: solid 4px aqua;
+    background: rgb(0, 0, 0);
     margin: 0px;
 }
 
 h1, h2, h5 {
-    color: var(--cor-2);
+    color: var(--cor-p);
     font-weight: 700;
 }
 
@@ -48,4 +48,18 @@ a, .btn-link:hover {
 
 a:hover {
     color: var(--cor-p);
+}
+ 
+
+.container{
+    background-color: #000000;
+    border: solid 4px aqua;
+}
+
+.card{
+   background-color: #2786f3;
+}
+
+.btn-primary {
+    font-weight: 200;
 }
