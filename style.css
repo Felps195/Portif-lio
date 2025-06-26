@@ -10,7 +10,6 @@ header {
     color: var(--cor-1)
 }
 
-
 :root {
     --cor-1: #000000; 
     --cor-2: #040c77;
@@ -62,6 +61,7 @@ a:hover {
 .img, img-src {
     border: solid 2px rgb(0, 0, 0);
 }
+
 .card{
    background-color: rgb(183, 253, 255);
    border: solid 2px rgb(0, 0, 0);
@@ -74,4 +74,8 @@ a:hover {
 .modal-body, .modal-header, .modal-footer, .modal-content {
     background-color: rgb(183, 253, 255);
     border: solid 1px rgb(0, 0, 0);
+}
+
+img {
+   border: solid 2px rgb(0, 0, 0);
 }
