@@ -58,10 +58,6 @@ a:hover {
     border: solid 3px rgb(0, 0, 0);
 }
 
-.img, img-src {
-    border: solid 2px rgb(0, 0, 0);
-}
-
 .card{
    background-color: rgb(183, 253, 255);
    border: solid 2px rgb(0, 0, 0);
